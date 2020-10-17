@@ -1,0 +1,18 @@
+.footerbanner {
+  background-color: #b3b3b3 !important;
+  color: black;
+}
+
+.newbutton {
+  background-color: green !important;
+  opacity: 0.7;
+}
+.bannertop {
+  background-color: green !important;
+  opacity: 0.7;
+  color: black;
+}
+
+.shader {
+  color: #733627 !important;
+}
